@@ -20,7 +20,7 @@ We can count the number of games played on each map and use that to show a chart
 
 ![alt text](map_frequency.png)
 
-We can easily see that Abyssal, Bel'Shir, Newkirk, and Proxima are vastly preferred. You can also see the relative frequency of Cactus Valley, Honorgrounds, and Palandino. The inverse of this graph shows the banning frequency. Which shows that Cactus Valley, Honorgrounds, and Palandino get banned the most. But Cactus Valley gets played nearly twice as much as Honorgrounds and three times as much as Palandino. The conclusion is that your opponent is more likely to ban Honorgrounds and Palandino, so if you feel weak on Cactus Valley, you should spend your ban there. If you feel weak on Palandino, possibly you don't have to spend a ban there because it has the highest ban rate in the pool.
+We can easily see that Abyssal, Bel'Shir, Newkirk, and Proxima are vastly preferred. You can also see the relative frequency of Cactus Valley, Honorgrounds, and Paladino. The inverse of this graph shows the banning frequency. Which shows that Cactus Valley, Honorgrounds, and Paladino get banned the most. But Cactus Valley gets played nearly twice as much as Honorgrounds and three times as much as Paladino. The conclusion is that your opponent is more likely to ban Honorgrounds and Paladino, so if you feel weak on Cactus Valley, you should spend your ban there. If you feel weak on Paladino, possibly you don't have to spend a ban there because it has the highest ban rate in the pool.
 
 Next, we can overlay matchup information onto the map frequency graph.
 
@@ -66,7 +66,7 @@ Recommendations for professional players can come out of this analysis in two fo
 
 The recommendation to the player would be this:
 
-1) The most likely map to be banned by your opponent is Palandino. Between Honorgrounds and Cactus Valley, Cactus Valley has a much better ZvP winrate. Ban Honorgrounds.
+1) The most likely map to be banned by your opponent is Paladino. Between Honorgrounds and Cactus Valley, Cactus Valley has a much better ZvP winrate. Ban Honorgrounds.
 2) The most likely map to be played and has a <50% ZvP winrate is Abyssal, that's where you should focus practice time.
 
 ### Errors
